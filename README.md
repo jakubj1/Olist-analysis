@@ -23,3 +23,5 @@ and delivery fee (freight value), and rounding the result to two decimal places.
 The newly created table was joined by additional datasets—“order_payments”,
 “customers”, and “order_reviews” using the left join operation. The final, filtered dataset was
 exported to Excel and then to Tableau for visualization.
+
+All the Tableau visualizations are accessible in .png format in the library.
